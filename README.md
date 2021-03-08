@@ -54,5 +54,5 @@ A passionate Software Developer 🚀 and Free writer ✍.
   <code><img height="30" src="https://github.com/momenurmaruf2742/momenurmaruf2742/blob/master/Maruf_Assest/code%20block%20logo.jpg" style="max-width:100%;"></code>
 
 ![Maruf's github stats](https://github-readme-stats.vercel.app/api?username=momenurmaruf2742&show_icons=true&theme=merko)
-[![Maruf's Github Stats](https://github-readme-stats.vercel.app/api?username=momenurmaruf2742&show_icons=true&count_private=true)]
+![Maruf's Github Stats](https://github-readme-stats.vercel.app/api?username=momenurmaruf2742&show_icons=true&count_private=true)
 
