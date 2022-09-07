@@ -22,7 +22,6 @@ A passionate Software Developer 🚀 and Free writer ✍.
 - **Languages**: 
 
   <code><img height="30" src="https://github.com/momenurmaruf2742/momenurmaruf2742/blob/master/Maruf_Assest/unnamed.png" style="max-width:100%;"></code> 
-  <code><img height="30" src="https://github.com/momenurmaruf2742/momenurmaruf2742/blob/master/Maruf_Assest/Java.png" style="max-width:100%;"></code>
   <code><img height="30" src="https://github.com/momenurmaruf2742/momenurmaruf2742/blob/master/Maruf_Assest/JavaScript.png" style="max-width:100%;"></code>
 
 - **Back-end**
